@@ -1,0 +1,2 @@
+class InternationalSupplier < Supplier
+end

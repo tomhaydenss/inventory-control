@@ -1,0 +1,2 @@
+class NationalSupplier < Supplier
+end
